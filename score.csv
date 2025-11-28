@@ -2,3 +2,17 @@
 1700000002.0,team2,team1,bug2,intended,100
 1700000003.0,team2,team1,bug3,intended,100
 1700000004.0,team2,team1,bug4,intended,100
+1700000005.0,team3,team1,bug1,intended,100
+1700000006.0,team3,team1,bug2,intended,100
+1700000007.0,team1,team2,bug2,intended,100
+1700000008.0,team1,team2,bug3,intended,100
+1700000009.0,team1,team2,bug4,intended,100
+1700000010.0,team3,team2,bug1,intended,100
+1700000011.0,team2,team3,bug3,intended,100
+1700000012.0,team2,team3,bug1,intended,100
+1700000013.0,team1,team4,bug1,intended,100
+1700000014.0,team2,team4,bug2,intended,100
+1700000015.0,team1,team4,bug2,intended,100
+1700000016.0,team1,team4,bug4,intended,100
+
+
